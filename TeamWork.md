@@ -1,5 +1,5 @@
 Nick and Patrick
-Cat goes meow
+Dog goes bark
 
 Nicholas is Awesome!!!
 
