@@ -1,3 +1,3 @@
 
-Diego added something to the second line
+Diego changed line 2
 Emily's line!
