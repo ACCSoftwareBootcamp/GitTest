@@ -1,3 +1,3 @@
-Deng
+D Smyth is awesome
 
-Eric
+Eric is awesome too.
